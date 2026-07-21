@@ -91,4 +91,4 @@ Both designs compiled and simulated with **0 errors**. Output waveforms are avai
 
 ## Author
 
-Amr Khaled Sedik — ECE Engineering, Ain Shams University
+Amr Khaled Sedik — Computer Engineering, Ain Shams University
