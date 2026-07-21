@@ -103,4 +103,4 @@ Design compiled and simulated with **0 errors**. The output `q` cycles correctly
 
 ## Author
 
-Amr Khaled Sedik — ECE Engineering, Ain Shams University
+Amr Khaled Sedik — Computer Engineering, Ain Shams University
