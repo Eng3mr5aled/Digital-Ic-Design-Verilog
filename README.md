@@ -1,4 +1,4 @@
-# Digital IC Design with Verilog HDL — Lab Portfolio
+# Digital IC Design with Verilog HDL [![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/eng3mr5aled/digital-ic-design-verilog?utm_source=readme&utm_medium=badge)
 
 A collection of Verilog HDL labs progressing from basic combinational logic gates through sequential circuits, FSMs, and display-driven systems, culminating in a full queue-management system final project. All designs are simulated and verified in **ModelSim (Intel FPGA Edition, 2020.1)**.
 
